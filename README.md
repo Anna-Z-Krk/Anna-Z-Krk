@@ -9,5 +9,10 @@ I am also currently working on JavaScript for Adobe Illustrator which can speed 
 
 I’m interested in many things. Among them cognitive science, personal development, information bubble, crime/detective novels, Harumi Murakami (some of his books), parenting, computer graphics and many onther things which can have impact on me.
 
+I have so many ideas what I would like to create next...
+
+
+Thanks for reading 🏋️‍♀️
+
 
 Have a good day!
