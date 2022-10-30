@@ -1,6 +1,6 @@
 Hello You, 
 
-I’m Anna from Kraków.
+I’m Anna from Kraków. The older I am, the younger I feel ;-)
 
 I am currently learning React, but also I came back to basic knowledge which I didn't use for longer time. So here you will find thing not in historical order. It can be a little messy. ;-)
 
