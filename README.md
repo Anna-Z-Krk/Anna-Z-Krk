@@ -1,18 +1,14 @@
-Hello You, 
+Hi,
 
-I’m Anna from Kraków. The older I am, the younger I feel ;-)
+I am Anna from Krakow.
 
-I am currently learning React, but also I came back to basic knowledge which I didn't use for longer time. So here you will find things not in historical order. So it can be a little messy. I am not posting all of my works.
+Currently, I am learning React, but I am also going back to the basic knowledge that I have not used for a long time. So here you will find things that are not historically in order. So it can be a bit of a mess. I do not post all my works here, I am aware of the imperfect appearance / code here (sometimes it's just a calculation of my time).
 
-I am also currently working on JavaScript for Adobe Illustrator which can speed my work as prepress specialist.
+I am also currently working on JavaScript for Adobe Illustrator which can help speed up my job as a prepress specialist.
 
+I am interested in many things. Among them, cognitive science, personal development, the information bubble, crime / detective novels, Harumi Murakami (some of his books), parenting, computer graphics and many other things that could affect me ...
 
-I’m interested in many things. Among them cognitive science, personal development, information bubble, crime/detective novels, Harumi Murakami (some of his books), parenting, computer graphics and many other things which can have impact on me...
-
-I have so many ideas what I would like to create next...
-
-
-Thanks for reading 🏋️‍♀️
+I have so many ideas that I would like to create further ... The older I am, the younger I feel ;-)
 
 
-Have a good day!
+Thanks for reading and have a nice day!
