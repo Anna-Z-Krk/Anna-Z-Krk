@@ -10,3 +10,5 @@ I have so many ideas that I would like to create further ... The older I am, the
 
 
 Thanks for reading and have a nice day!
+
+You can contact me via Linkedin: https://www.linkedin.com/in/anna-%C5%BCurek-krak%C3%B3w/
