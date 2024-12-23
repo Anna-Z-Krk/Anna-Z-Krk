@@ -2,9 +2,9 @@ Hi,
 
 I am Anna from Krakow, Poland.
 
-Currently, I am learning React, but I am also going back to the basic knowledge that I have not used for a long time. So here you will find things that are not historically in order. I do not post all my works here, I am aware of the imperfect appearance / code here (sometimes it's just a calculation of my time). I'll try to improve it to make it more and more reader friendly.
+I am currently expanding my knowledge in marketing and graphic design. As for front-end development, you may notice that the content here isn’t presented in a strict chronological order. I don’t upload all my projects, and I’m aware that some aspects—whether in appearance or code—might not be perfect (sometimes it’s a matter of prioritizing my time). I’ll continue refining it to make everything increasingly user-friendly.
 
-I am interested in many things. Among them: cognitive science, personal development, health, the information bubble, crime / detective novels, Harumi Murakami (some of his books), parenting, computer graphics and many other things that could affect me ...
+I am interested in many things. Among them: cognitive science, personal development, health, the information bubble, crime / detective novels, Harumi Murakami (some of his books), parenting, computer graphics, marketing and many other things that could affect me ...
 
 I have so many ideas that I would like to create further ... The older I am, the younger I feel ;-)
 
